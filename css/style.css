@@ -1,0 +1,18 @@
+.youtube-id{
+    width: 300px;
+}
+
+input[type=text]{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: .5em;
+    width: 100%;
+}
+
+input:focus{
+    outline: none;
+}
+
+button{
+    width: 100%;
+}
